@@ -48,6 +48,6 @@ plt.title("Number of Advertised Jobs")
 plt.show()
 ```
 
-![Job Count Chart](test\no_advertised_jobs.png)
+![Job Count Chart](python_project\Images\job_type_count.png)
 
 
