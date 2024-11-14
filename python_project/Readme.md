@@ -65,7 +65,7 @@ plt.title("Number of Advertised Jobs")
 plt.show()
 ```
 
-![Job Count Chart](Images\job_type_count.png)
+![Job Count Chart](Images/job_type_count.png)
 
 
 ### Insights: 
@@ -92,7 +92,7 @@ for i, (column, title) in enumerate(column_dict.items()):
 
 plt.show()
 ```
-![WFH and Degree Charts](Images\wfh_degree_pie.png)
+![WFH and Degree Charts](Images/wfh_degree_pie.png)
 ### Insights: 
 - Only 5.2% of the roles offered a work from home option on the job listing while only 48.5% required a the applicants to have a degree.   
 - However, it is important to note the possible limitations of this dataset since the data was collected via web scraping. The jobs with a work from home option or a degree requirement may not have listed this online.
@@ -117,7 +117,7 @@ plt.xlabel(' Total Jobs')
 plt.ylabel('Skills')
 plt.title("Most Saught Afer Skills - All Data Related Jobs")
 ```
-![Most sought after skills](Images\skills_all_jobs.png)
+![Most sought after skills](Images/skills_all_jobs.png)
 
 **2. Breaking down the most sought after skills into data analyst, data engineer and data science roles** 
 '
@@ -139,7 +139,7 @@ for i, job_title in enumerate(job_titles):
 plt.tight_layout()
 plt.show()
 ```
-![skills comparison](Images\skills_comparison_3.png)
+![skills comparison](Images/skills_comparison_3.png)
 
 ### Insights:
 - The two most sought after skills were SQL and Python, across the three job types of data analyst, data engineer and data scientist. 
@@ -159,7 +159,7 @@ plt.xlabel('Job Posted Month')
 plt.ylabel('Job Count')
 plt.title('Job Postings During Each Month of 2023')
 ```
-!['Job Posting Month'](Images\job_post_month.png)
+!['Job Posting Month'](Images/job_post_month.png)
 
 
 
