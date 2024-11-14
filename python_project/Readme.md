@@ -186,7 +186,7 @@ plt.title('Percentage of Data Jobs Requiring Each Skill During 2023')
 plt.tight_layout()
 sns.despine()
 ```
-![Job Skills Percentage](images/job_skills_perc.png)
+![Job Skills Percentage](Images/job_skills_perc.png)
 
 
 ### Insights
