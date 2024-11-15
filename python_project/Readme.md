@@ -6,6 +6,10 @@
 - What were the most sought-after skills for data-related jobs in New Zealand and Australia in 2023?
 - Were there any trends in the popularity of the sought-after skills during the course of the year 2023?
 
+The case study conducted in the following Jupyter notebooks: 
+- [Exploratory Data Analysis](job_skills_eda.ipynb)
+- [Job Skills Trends](job_skills_trends.ipynb)
+
 # Tools Used 
 The following tools were used for this project: 
 
@@ -22,7 +26,7 @@ The following tools were used for this project:
 
 # Data Cleaning and EDA
 
-An initial exploration of the dataset was conducted to locate areas for data cleaning and to get a better understanding the basic structure, patterns and relationships within a dataset. 
+An initial exploration of the dataset was conducted to locate areas for data cleaning and to get a better understanding the basic structure, patterns and relationships within a dataset. This part of the project can be found in the following jupyter notebook: [EDA](job_skills_eda.ipynb)
 
 The following packages were imported for this step: 
 ``` python
@@ -98,7 +102,8 @@ plt.show()
 - However, it is important to note the possible limitations of this dataset since the data was collected via web scraping. The jobs with a work from home option or a degree requirement may not have listed this online.
 
 # Detailed Insights and Trend Analysis 
-This part of the project can be found in the following Jupyter Notebook file: 
+This part of the project can be found in the following Jupyter Notebook file:
+[Job Skills Trend Analysis](job_skills_trends.ipynb) 
 
 
 ### What are the most sought after skills for data analyst, data engineer and data scientist roles in Australia and New Zealand?
