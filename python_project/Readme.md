@@ -1,10 +1,12 @@
 # Project Overview 
 
- This case study will analyse a dataset of data-related job listings from 2023 to answer the following questions:
+ Entering the world of data is often a daunting experience for new applicants. It feels like getting lost in a maze where every exit is shrouded in confusing job titles, and every path feels like a never-ending spiral riddled with pythons, pandas, the Tidyverse and everything in between. This project aims to make this pathway clearer by answering the following questions:
+ 
+- Which data-related skills are the best to learn first?
+- Before delving into learning new skills, should you choose a data career pathway?
+- Which career path will have the most job opportunities for a new applicant in Australasia, and how does it compare to overseas opportunities? 
+- Are any of the top skills trending towards becoming obsolete?
 
-- What were the most in-demand data-related job types in New Zealand and Australia for 2023?
-- What were the most sought-after skills for data-related jobs in New Zealand and Australia in 2023?
-- Were there any trends in the popularity of the sought-after skills during the course of the year 2023?
 
 The case study conducted in the following Jupyter notebooks: 
 - [Exploratory Data Analysis](job_skills_eda.ipynb)
@@ -197,3 +199,14 @@ sns.despine()
 ### Insights
 - The plot shows a general decline in the percentage of jobs mentioning a requirement for the top four data skills. 
 - Despite being the fifth popular choice, the percentage of roles requiring Power BI experience has remained consistent through the year. 
+
+# Key Findings
+Based on the analysis, Python and SQL emerged as the most in-demand skills across data analyst, data engineer, and data scientist roles in Australia and New Zealand in 2023. Focusing on these two skills would provide aspiring professionals with a versatile foundation to succeed in the data field while allowing flexibility in career choices.
+
+Data engineer roles were the most frequently advertised positions in 2023, indicating a logical starting point for individuals aiming to maximize job opportunities. However, these findings were not consistent with the global data, which revealed that data analyst roles were the most listed in 2023. 
+
+Finally, the analysis explored trends in the popularity of top-requested skills. While job advertisements showed seasonal fluctuations, there were no significant shifts in the demand for the top skills over time.
+
+Overall, these insights offer valuable guidance for both job seekers and stakeholders in the data job landscape.
+
+
