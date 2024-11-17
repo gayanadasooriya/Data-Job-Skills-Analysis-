@@ -73,6 +73,9 @@ plt.show()
 
 ![Job Count Chart](Images/job_type_count.png)
 
+### How do global job stats compare to the NZ and Australia data?
+![Job Count Global](Images/skills_all_jobs_global.png)
+
 
 ### Insights: 
 - Data engineer roles were the most frequently listed in New Zealand and Australia in 2023. 
